@@ -1,2 +1,2 @@
-# 
-JS 예제
+# JavaScript
+JS예제
